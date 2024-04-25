@@ -4,7 +4,7 @@ const Airtable = require('airtable');
 
 // Initialize the Airtable API - replace with your API key and base configuration
 Airtable.configure({
-    apiKey: 'patO5ZJFsF6tW2JQh.82cac7e4b86cc4bf6d4508832b0bba94182887b844b4f4cc77178d3adeab6288',
+    apiKey: '',
 });
 const base = Airtable.base('apptx7sOc1eXZGTdy');
 const base2 = Airtable.base('apppEgXR5q8gOgo3N');
