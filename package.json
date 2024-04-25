@@ -1,0 +1,17 @@
+{
+  "name": "airtableapp",
+  "version": "1.0.0",
+  "description": "app to fetch airtable data using official api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.12.2",
+    "axios": "^1.5.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

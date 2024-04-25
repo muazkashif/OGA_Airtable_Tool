@@ -1,0 +1,14 @@
+.rsm-geography:hover {
+    opacity: 0.8;
+  }
+  
+  .react-tooltip {
+    opacity: 1 !important;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #333333;
+    color: #ffffff;
+    padding: 6px 10px;
+    border-radius: 4px;
+  }
+  
